@@ -1,0 +1,12 @@
+bin/
+.DS_Store
+*.pb.cc
+*.a
+*.o
+*.d
+*.swp
+*.bk
+*.bak
+build/
+
+
