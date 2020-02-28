@@ -1,6 +1,6 @@
 ## 1. Introduction
 
-        Distributed LR With Parameter Server 
+Distributed LR With Parameter Server 
 
 ## 2. Install
         
@@ -54,7 +54,7 @@ sh run_ps_dist_worker.sh
 
 ## 5. AD
 
-欢迎关注公众号：机器学习爱好者
+欢迎关注公众号：**机器学习爱好者**
 
 或者扫码：
 
